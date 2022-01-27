@@ -1,0 +1,1 @@
+Exercise of classes in javascript
